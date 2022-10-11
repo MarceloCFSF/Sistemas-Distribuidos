@@ -31,3 +31,6 @@ replay_pid*
 
 SD-EP-Gossip.pdf
 .tool-versions
+
+# VSCode
+.vscode
