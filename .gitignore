@@ -29,8 +29,9 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java
 
-SD-EP-Gossip.pdf
+*.pdf
 .tool-versions
+*.txt
 
 # VSCode
 .vscode
